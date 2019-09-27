@@ -1,0 +1,15 @@
+DATA_MINING_PROJECT_SHARARE ZOLGHADR_610395109
+
+first of all we try to get feature from data in the file get_feature_data
+we clean the data by removing unusable and misssing attributes
+
+then we do preprocessing like pca and normalize and standard the data to get 
+better results
+
+then because of the great amount of data we classification by severals classes
+something like ensemble classifiers and we do 10_fold cross validation to get
+better results
+results:
+
+
+ 
