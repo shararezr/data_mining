@@ -1,0 +1,19 @@
+Phishing DATA:
+
+knn_accuracy :0.984125
+naivebayes_accuracy :0.9685625
+svm_accuracy: 0.983875
+boosting_accuracy: 0.989875
+/////////////////////////////
+APSFailure:
+
+knn_accuracy with pca 0.984125
+naivebayes_accuracy with pca 0.9685625
+svm_accuracy with pca 0.983375
+boosting_accuracy with pca 0.98975
+
+
+
+* Accuracies are based on best out of 3 runs for each cell. 
+* For APS-Failure dataset due to enormity of data only first 1/6 of training-set and test-set was used.
+* APS-Failure data is ridiculously unbiased which  probably can be  the reason of high accuracies.
